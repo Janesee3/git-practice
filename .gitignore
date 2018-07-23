@@ -1,3 +1,10 @@
 not-news.txt
 zy-secrets.txt
+<<<<<<< Updated upstream
 /temp
+=======
+
+temp
+sandbox/*.doc
+
+>>>>>>> Stashed changes
